@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 dd9ee4bd8bbac158d86831b30216c24770139bfa maximilianocaetano <maximilianocaetano@gmail.com> 1617465305 -0300	commit (initial): initial commit
+dd9ee4bd8bbac158d86831b30216c24770139bfa 1260efc1450a27c3f9aa1b5a1db65b2abbc38ac4 maximilianocaetano <maximilianocaetano@gmail.com> 1617466708 -0300	commit: angular material instalado no projeto
+1260efc1450a27c3f9aa1b5a1db65b2abbc38ac4 ba366da5d93a247ada4ce18273f41a436a69f878 maximilianocaetano <maximilianocaetano@gmail.com> 1617474963 -0300	commit: Home implementado com rota
+ba366da5d93a247ada4ce18273f41a436a69f878 726329a3a9044f79789828e1a9d9eb131dc76d5c maximilianocaetano <maximilianocaetano@gmail.com> 1617501015 -0300	commit: categoria-read implementado
+726329a3a9044f79789828e1a9d9eb131dc76d5c 5cb59ef364bdf8675e933cd0e92063fb76cd3f21 maximilianocaetano <maximilianocaetano@gmail.com> 1617555402 -0300	commit: ajustes no component-read
+5cb59ef364bdf8675e933cd0e92063fb76cd3f21 b3119801b267456755cd8c0f53d46fa05b51b0cc maximilianocaetano <maximilianocaetano@gmail.com> 1617566245 -0300	commit: metodo CREATE implementado para categoria
+b3119801b267456755cd8c0f53d46fa05b51b0cc b025a515a493086ea678c38cf7fc872b150648b4 maximilianocaetano <maximilianocaetano@gmail.com> 1617566545 -0300	commit: finalizando o metodo CREATE
+b025a515a493086ea678c38cf7fc872b150648b4 c438f393e8561e9e9de3fbfee888ee9beec52d9f maximilianocaetano <maximilianocaetano@gmail.com> 1617579675 -0300	commit: Categoria DELETE implementada
+c438f393e8561e9e9de3fbfee888ee9beec52d9f 94a27bc244b26b3f214de98ac5a1bf1d59859e6b maximilianocaetano <maximilianocaetano@gmail.com> 1617619443 -0300	commit: UPDATE para categoria implementado
+94a27bc244b26b3f214de98ac5a1bf1d59859e6b 86ab854567c0aaf7b43a25d4192d5c27421bf225 maximilianocaetano <maximilianocaetano@gmail.com> 1617625316 -0300	commit: leitura de todos os livros por categoria implementado
+86ab854567c0aaf7b43a25d4192d5c27421bf225 e6f56bc3d7545bb6d210f5d612a1d68eb9dd1ddb maximilianocaetano <maximilianocaetano@gmail.com> 1617653909 -0300	commit: UPDATE para livro implementado
+e6f56bc3d7545bb6d210f5d612a1d68eb9dd1ddb ff38a9508afbc9c2ab5bdd1e7db21a61cb3a0d52 maximilianocaetano <maximilianocaetano@gmail.com> 1617655485 -0300	commit: DELTE para livro implementado
+ff38a9508afbc9c2ab5bdd1e7db21a61cb3a0d52 154f9f45e27931f307448a3441f7c17fad833fc2 maximilianocaetano <maximilianocaetano@gmail.com> 1617659323 -0300	commit: READ para livro implementado
